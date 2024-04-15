@@ -1,3 +1,8 @@
+#ExactSpace Assignment 
+
+***I developed a single page application, which will have a textbox to type the message and a button to send the chat.  On clicking send button, show the chat message above the textbox.For each message randomly assigning an username from the user list.For each message, added a like button at below the chat message, which on click should increase the count. Display the count next to the like button. Also as optional i did @ mention thing on to mention people availiable there.***
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
