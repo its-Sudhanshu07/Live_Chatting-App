@@ -1,0 +1,65 @@
+.user-Container {
+    margin: 20px;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 12px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    max-width: 400px; /* Adjust the maximum width */
+    width: calc(100% - 40px);
+  }
+  
+  .user-name-date-div {
+    display: flex;
+    align-items: center;
+  }
+  
+  .initial {
+    font-size: 12px;
+    font-weight: bold;
+    margin-right: 20px;
+    padding: 10px 20px;
+    background-color: #6c5ce7;
+    color: #fff;
+    border-radius: 50%;
+  }
+  
+  .person-name {
+    font-size: 12px;
+    margin-right: auto;
+    font-weight: 600;
+    font-family: "Roboto", sans-serif;
+  }
+  
+  .date {
+    font-size: 16px;
+    color: #555;
+  }
+  
+  .text-fild {
+    margin-top: 12px;
+    padding: 14px;
+    background-color: #fff;
+    border-radius: 8px;
+    font-size: 12px;
+    font-family: "Roboto", sans-serif;
+    max-height: 200px; /* Adjust the maximum height */
+    overflow-y: auto;
+  }
+  
+  .like-btn {
+    margin-top: 12px;
+    padding: 8px 16px;
+    background-color: #4caf50;
+    border: none;
+    color: #fff;
+    font-size: 10px;
+    font-weight: bold;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .like-btn:hover {
+    background-color: #388e3c;
+  }
+  

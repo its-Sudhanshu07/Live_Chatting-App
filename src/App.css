@@ -1,0 +1,17 @@
+ 
+.app-container{
+  min-height: 100vh;
+  background-image: url("./components/images/chatting.png");
+  display: flex; 
+  flex-direction: column;
+
+} 
+.chat-head{
+  text-align: center;
+  font-size: 50px;
+  background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+  -webkit-background-clip: text;
+  color: transparent;
+  font-family: "Lucida Calligraphy";
+  position:relative; 
+}
